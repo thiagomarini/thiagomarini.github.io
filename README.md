@@ -11,7 +11,7 @@ Hello World!
 ## Top viewed publications
 
 ### At [Weengs](https://www.weengs.co.uk/)
-- [The Tug of War](https://medium.com/no-deploys-on-friday/the-tug-of-war-de42799ae072)
+- [The Tug of War](https://medium.com/no-deploys-on-friday/the-tug-of-war-de42799ae072) - 12/2018
 - [Guys, REST APIs are not Databases](https://medium.com/@marinithiago/guys-rest-apis-are-not-databases-60db4e1120e4) - 08/2018
 - [Monoliths, Microservices and Architectural Quanta](https://medium.com/@marinithiago/monolith-microservices-and-architectural-quanta-c1327428d652) - 07/2018
 - [An Eloquent Story](https://medium.com/@marinithiago/an-eloquent-story-7ebecf5adfcd) - 05/2018
