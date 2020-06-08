@@ -11,7 +11,7 @@ Hello World!
 ## Top viewed publications
 
 ### At [Lendinvest](https://lendinvest.com/)
-- [DDDis Where to Start](https://medium.com/@marinithiago/ddd-ish-where-to-start-ced005436aee) - 12/2018
+- [DDDis Where to Start](https://medium.com/@marinithiago/ddd-ish-where-to-start-ced005436aee) - 04/2020
 
 ### At [Weengs](https://www.weengs.co.uk/)
 - [The Tug of War](https://medium.com/no-deploys-on-friday/the-tug-of-war-de42799ae072) - 12/2018
