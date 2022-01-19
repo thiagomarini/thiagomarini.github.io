@@ -4,7 +4,6 @@ Hello World!
 [![CircleCI](https://circleci.com/gh/thiagomarini/pdftotext.svg?style=svg)](https://circleci.com/gh/thiagomarini/pdftotext)
 
 ## My life online
-- Twitter [@thiago__marini](https://twitter.com/thiago__marini)
 - Medium [@marinithiago](https://medium.com/@marinithiago)
 - Linkedin [marinithiago](https://www.linkedin.com/in/marinithiago/)
 
